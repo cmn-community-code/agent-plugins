@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://devenv.sh/devenv.schema.json
+inputs:
+  nixpkgs:
+    url: github:cachix/devenv-nixpkgs/rolling
+
+allow_unfree: true
+
+reload: false
+
+require_version: "2.4.0"

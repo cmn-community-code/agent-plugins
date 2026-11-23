@@ -1,0 +1,12 @@
+{
+  "languages": {
+    "Markdown": {
+      "format_on_save": "on",
+      "prettier": {
+        "allowed": true,
+        "proseWrap": "always",
+        "printWidth": 100
+      }
+    }
+  }
+}

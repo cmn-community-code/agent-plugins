@@ -1,0 +1,17 @@
+{
+  "name": "cmn",
+  "owner": {
+    "name": "CMN"
+  },
+  "metadata": {
+    "description": "Plugins that connect Claude Code to CMN's internal tools and knowledge"
+  },
+  "plugins": [
+    {
+      "name": "weetwinkel",
+      "source": "./plugins/weetwinkel",
+      "description": "De WeetWinkel: search and read the CMN knowledge base",
+      "category": "knowledge"
+    }
+  ]
+}

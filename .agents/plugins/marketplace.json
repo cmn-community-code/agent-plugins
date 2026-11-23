@@ -1,0 +1,20 @@
+{
+  "name": "cmn",
+  "interface": {
+    "displayName": "CMN"
+  },
+  "plugins": [
+    {
+      "name": "weetwinkel",
+      "source": {
+        "source": "local",
+        "path": "./plugins/weetwinkel"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
