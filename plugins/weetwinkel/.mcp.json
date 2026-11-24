@@ -2,7 +2,7 @@
   "mcpServers": {
     "weetwinkel": {
       "type": "http",
-      "url": "https://weetwinkel.tail8cbed1.ts.net/mcp"
+      "url": "https://weetwinkel-mcp.tail8cbed1.ts.net/mcp"
     }
   }
 }
