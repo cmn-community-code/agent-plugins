@@ -1,20 +1,26 @@
 {
   "name": "weetwinkel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "De WeetWinkel: gives Codex access to the CMN knowledge base, from brand guidelines to coding practices",
   "author": {
     "name": "CMN"
   },
   "repository": "https://github.com/cmn-community-code/agent-plugins",
   "license": "LicenseRef-Proprietary",
-  "keywords": ["knowledge-base", "documentation", "mcp"],
+  "keywords": [
+    "knowledge-base",
+    "documentation",
+    "mcp"
+  ],
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "De WeetWinkel",
     "shortDescription": "Search and read the CMN knowledge base",
     "developerName": "CMN",
     "category": "Productivity",
-    "capabilities": ["Read"],
+    "capabilities": [
+      "Read"
+    ],
     "privacyPolicyURL": "https://creativemedianetwork.nl"
   }
 }

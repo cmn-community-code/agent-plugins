@@ -15,3 +15,7 @@ install-local: check
 uninstall-local:
     claude plugin uninstall weetwinkel@cmn
     claude plugin marketplace remove cmn
+
+# Bump the version of a plugin
+bump level="patch" plugin="weetwinkel":
+    bun scripts/bump.ts {{level}} {{plugin}}

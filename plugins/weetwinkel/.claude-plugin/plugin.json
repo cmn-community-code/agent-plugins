@@ -1,6 +1,6 @@
 {
   "name": "weetwinkel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "De WeetWinkel: gives Claude access to the CMN knowledge base, from brand guidelines to coding practices",
   "author": {
     "name": "CMN"
@@ -8,5 +8,9 @@
   "repository": "https://github.com/cmn-community-code/agent-plugins",
   "license": "LicenseRef-Proprietary",
   "privacyPolicyUrl": "https://creativemedianetwork.nl",
-  "keywords": ["knowledge-base", "documentation", "mcp"]
+  "keywords": [
+    "knowledge-base",
+    "documentation",
+    "mcp"
+  ]
 }

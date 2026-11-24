@@ -4,6 +4,7 @@ let
   devPackages = [
     pkgs.claude-code
     pkgs.just
+    pkgs.bun
   ];
 
   printPackages = title: ps: ''
