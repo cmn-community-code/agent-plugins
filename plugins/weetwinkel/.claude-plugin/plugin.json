@@ -1,6 +1,6 @@
 {
   "name": "weetwinkel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "De WeetWinkel: gives Claude access to the CMN knowledge base, from brand guidelines to coding practices",
   "author": {
     "name": "CMN"
